@@ -1,0 +1,79 @@
+
+.header {
+    
+    margin: 0 auto 10px;
+    width: 351px;
+    height: 113px;
+
+    
+}
+
+.first_box {
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    margin: 5px 20px;
+    padding: 1%;
+
+}
+
+.second_box {
+    text-align: center;
+    margin: 5px 20px;
+    
+    
+
+}
+.f_box {
+    background-color: rgb(156, 237, 248);
+    width: 31%;
+    height: 80px;
+    margin-right: 1%;
+    padding: 1%;
+    float: left;
+    font-size: 15px;
+    
+}
+.s_box {
+    background-color: rgb(156, 237, 248);
+    width: 30%;
+    height: 80px;
+    margin-right: 1%;
+    padding: 1%;  
+    float: left;
+    font-size: 15px;
+    
+}
+.t_box {
+    background-color: rgb(156, 237, 248);
+    width: 31%;
+    height: 80px;
+    padding: 1%;
+    float: left;
+    font-size: 15px;
+}
+
+.last {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
